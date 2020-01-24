@@ -1,7 +1,4 @@
-# Method Scope Lab
-
-## Learning Goals
-
+n
 - Define a local variable
 - Define a method
 - Define a method that takes an argument
